@@ -1,6 +1,5 @@
-package Vorlesung2;
+package Vorlesung2_3_4;
 
-import java.sql.SQLOutput;
 import java.util.Random;
 import java.util.Scanner;
 

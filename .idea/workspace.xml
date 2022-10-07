@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15d2c7d5-c772-4ebb-ae76-37f02d9be483" name="Changes" comment="">
+    <list default="true" id="15d2c7d5-c772-4ebb-ae76-37f02d9be483" name="Changes" comment="Schleifenübungen abgeschlossen">
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung4/Methoden.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vorlesung1/HelloWorldProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung1/HelloWorldProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vorlesung2/Kontrollstrukturen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung2/Kontrollstrukturen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung2/Kontrollstrukturen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung2_3_4/Kontrollstrukturen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Kontrollstrukturen">
+  <component name="RunManager" selected="Application.Methoden">
     <configuration name="HelloWorldProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vorlesung1.HelloWorldProgram" />
       <module name="InfoSemester1" />
@@ -51,11 +51,24 @@
       </method>
     </configuration>
     <configuration name="Kontrollstrukturen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vorlesung2.Kontrollstrukturen" />
+      <option name="MAIN_CLASS_NAME" value="Vorlesung2_3_4.Kontrollstrukturen" />
       <module name="InfoSemester1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Vorlesung2.*" />
+          <option name="PATTERN" value="Vorlesung2_3_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methoden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vorlesung4.Methoden" />
+      <module name="InfoSemester1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vorlesung4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Methoden" />
         <item itemvalue="Application.Kontrollstrukturen" />
         <item itemvalue="Application.HelloWorldProgram" />
       </list>
@@ -79,6 +93,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665121749203</updated>
     </task>
+    <task id="LOCAL-00001" summary="Schleifenübungen abgeschlossen">
+      <created>1665129482928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665129482928</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Schleifenübungen abgeschlossen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Schleifenübungen abgeschlossen" />
   </component>
 </project>
