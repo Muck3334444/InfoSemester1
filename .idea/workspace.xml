@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15d2c7d5-c772-4ebb-ae76-37f02d9be483" name="Changes" comment="Schleifenübungen abgeschlossen">
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung4/Methoden.java" afterDir="false" />
+    <list default="true" id="15d2c7d5-c772-4ebb-ae76-37f02d9be483" name="Changes" comment="Mehtoden Übung">
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung6/Rekursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vorlesung2/Kontrollstrukturen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung2_3_4/Kontrollstrukturen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Methoden">
+}</component>
+  <component name="RunManager" selected="Application.Rekursion">
     <configuration name="HelloWorldProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vorlesung1.HelloWorldProgram" />
       <module name="InfoSemester1" />
@@ -76,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Rekursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vorlesung6.Rekursion" />
+      <module name="InfoSemester1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vorlesung6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rekursion" />
         <item itemvalue="Application.Methoden" />
         <item itemvalue="Application.Kontrollstrukturen" />
         <item itemvalue="Application.HelloWorldProgram" />
@@ -100,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665129482928</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mehtoden Übung">
+      <created>1665131760570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665131760570</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Schleifenübungen abgeschlossen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Schleifenübungen abgeschlossen" />
+    <MESSAGE value="Mehtoden Übung" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mehtoden Übung" />
   </component>
 </project>
