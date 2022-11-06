@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15d2c7d5-c772-4ebb-ae76-37f02d9be483" name="Changes" comment="Mehtoden Übung">
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung7/Arrays.java" afterDir="false" />
+    <list default="true" id="15d2c7d5-c772-4ebb-ae76-37f02d9be483" name="Changes" comment="Array Übung">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung8/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung8/Sparbuch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,16 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Arrays">
+}]]></component>
+  <component name="RunManager" selected="Application.Control">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vorlesung7.Arrays" />
       <module name="InfoSemester1" />
+      <option name="PROGRAM_PARAMETERS" value="Lars Gordon 2 5" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Vorlesung7.*" />
@@ -49,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vorlesung1.HelloWorldProgram" />
+    <configuration name="Control" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vorlesung8.Control" />
       <module name="InfoSemester1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Vorlesung1.*" />
+          <option name="PATTERN" value="Vorlesung8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Control" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.Rekursion" />
         <item itemvalue="Application.Methoden" />
         <item itemvalue="Application.Kontrollstrukturen" />
-        <item itemvalue="Application.HelloWorldProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665131760570</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Array Übung">
+      <created>1666941326522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666941326522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +162,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Schleifenübungen abgeschlossen" />
     <MESSAGE value="Mehtoden Übung" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mehtoden Übung" />
+    <MESSAGE value="Array Übung" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array Übung" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InfoSemester1$Arrays.ic" NAME="Arrays Coverage Results" MODIFIED="1666942529069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Vorlesung7.*</FILTER>
+    </SUITE>
   </component>
 </project>
