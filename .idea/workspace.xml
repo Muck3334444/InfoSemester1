@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15d2c7d5-c772-4ebb-ae76-37f02d9be483" name="Changes" comment="Array Übung">
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/Dino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/Fisch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/Hund.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/Lebewesen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/LebewesenVerwaltung.java" afterDir="false" />
+    <list default="true" id="15d2c7d5-c772-4ebb-ae76-37f02d9be483" name="Changes" comment="Lebewesen Übung">
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/Angestellter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/Azubi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/Mitarbeiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/MitarbeiterVerwaltung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Minute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Stunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Tage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Zeit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,21 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LebewesenVerwaltung">
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vorlesung7.Arrays" />
-      <module name="InfoSemester1" />
-      <option name="PROGRAM_PARAMETERS" value="Lars Gordon 2 5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Vorlesung7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MitarbeiterVerwaltung">
     <configuration name="AuftragsVerwaltung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vorlesung9.AuftragsVerwaltung" />
       <module name="InfoSemester1" />
@@ -94,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MitarbeiterVerwaltung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vorlesung10.AngestellteÜbung.MitarbeiterVerwaltung" />
+      <module name="InfoSemester1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vorlesung10.AngestellteÜbung.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonVerwaltung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vorlesung9.PersonVerwaltung" />
       <module name="InfoSemester1" />
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MitarbeiterVerwaltung" />
         <item itemvalue="Application.LebewesenVerwaltung" />
         <item itemvalue="Application.AuftragsVerwaltung" />
         <item itemvalue="Application.PersonVerwaltung" />
         <item itemvalue="Application.Control" />
-        <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +167,8 @@
     <MESSAGE value="Schleifenübungen abgeschlossen" />
     <MESSAGE value="Mehtoden Übung" />
     <MESSAGE value="Array Übung" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array Übung" />
+    <MESSAGE value="Lebewesen Übung" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lebewesen Übung" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/InfoSemester1$Arrays.ic" NAME="Arrays Coverage Results" MODIFIED="1666942529069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
