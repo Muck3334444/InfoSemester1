@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15d2c7d5-c772-4ebb-ae76-37f02d9be483" name="Changes" comment="Lebewesen Übung">
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/Angestellter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/Azubi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/Mitarbeiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/MitarbeiterVerwaltung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Minute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Stunde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Tage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Zeit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/Figur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/Kreis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/Rechteck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/TestFigur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,26 +39,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MitarbeiterVerwaltung">
+  <component name="RunManager" selected="Application.TestFigur">
     <configuration name="AuftragsVerwaltung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vorlesung9.AuftragsVerwaltung" />
       <module name="InfoSemester1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Vorlesung9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Control" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vorlesung8.Control" />
-      <module name="InfoSemester1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Vorlesung8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestFigur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vorlesung10.ZeichnenÜbung.TestFigur" />
+      <module name="InfoSemester1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vorlesung10.ZeichnenÜbung.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestFigur" />
         <item itemvalue="Application.MitarbeiterVerwaltung" />
         <item itemvalue="Application.LebewesenVerwaltung" />
         <item itemvalue="Application.AuftragsVerwaltung" />
         <item itemvalue="Application.PersonVerwaltung" />
-        <item itemvalue="Application.Control" />
       </list>
     </recent_temporary>
   </component>
