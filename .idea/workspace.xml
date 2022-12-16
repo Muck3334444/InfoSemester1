@@ -2,11 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15d2c7d5-c772-4ebb-ae76-37f02d9be483" name="Changes" comment="Lebewesen Übung">
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/Figur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/Kreis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/Rechteck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/TestFigur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung11Interfaces/Obstlagerung/Apfel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung11Interfaces/Obstlagerung/Birne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung11Interfaces/Obstlagerung/Obst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung11Interfaces/Obstlagerung/Obstlager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorlesung11Interfaces/Obstlagerung/Orange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/Angestellter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/AngestellteÜbung/Angestellter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/Azubi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/AngestellteÜbung/Azubi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/Mitarbeiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/AngestellteÜbung/Mitarbeiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/AngestellteÜbung/MitarbeiterVerwaltung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/AngestellteÜbung/MitarbeiterVerwaltung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/Dino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/Dino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/Fisch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/Fisch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/Hund.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/Hund.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/Lebewesen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/Lebewesen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/LebewesenVerwaltung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/LebewesenVerwaltung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/Figur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/ZeichnenÜbung/Figur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/Kreis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/ZeichnenÜbung/Kreis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/ZeichnenÜbung/Rechteck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/ZeichnenÜbung/TestFigur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/ZeichnenÜbung/TestFigur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Minute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/ZeitÜbung/Minute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Stunde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/ZeitÜbung/Stunde.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Tage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/ZeitÜbung/Tage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung10/ZeitÜbung/Zeit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung10VererbungAbstract/ZeitÜbung/Zeit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung2_3_4/Kontrollstrukturen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung2_3_4Kontrollstrukturen/Kontrollstrukturen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung4/Methoden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung4Methoden/Methoden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung6/Rekursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung6Rekursion/Rekursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung7/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung7Arrays/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung8/Control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung8Objekte/Control.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung8/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung8Objekte/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vorlesung8/Sparbuch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vorlesung8Objekte/Sparbuch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +41,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,14 +58,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.TestFigur">
+}]]></component>
+  <component name="RunManager" selected="Application.Obstlager">
     <configuration name="AuftragsVerwaltung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vorlesung9.AuftragsVerwaltung" />
       <module name="InfoSemester1" />
@@ -54,11 +81,11 @@
       </method>
     </configuration>
     <configuration name="LebewesenVerwaltung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vorlesung10.LebewesenVerwaltung" />
+      <option name="MAIN_CLASS_NAME" value="Vorlesung10VererbungAbstract.LebewesenVerwaltung" />
       <module name="InfoSemester1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Vorlesung10.*" />
+          <option name="PATTERN" value="Vorlesung10VererbungAbstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="MitarbeiterVerwaltung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vorlesung10.AngestellteÜbung.MitarbeiterVerwaltung" />
+      <option name="MAIN_CLASS_NAME" value="Vorlesung10VererbungAbstract.AngestellteÜbung.MitarbeiterVerwaltung" />
       <module name="InfoSemester1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Vorlesung10.AngestellteÜbung.*" />
+          <option name="PATTERN" value="Vorlesung10VererbungAbstract.AngestellteÜbung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonVerwaltung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vorlesung9.PersonVerwaltung" />
+    <configuration name="Obstlager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vorlesung11Interfaces.Obstlagerung.Obstlager" />
       <module name="InfoSemester1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Vorlesung9.*" />
+          <option name="PATTERN" value="Vorlesung11Interfaces.Obstlagerung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="TestFigur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vorlesung10.ZeichnenÜbung.TestFigur" />
+      <option name="MAIN_CLASS_NAME" value="Vorlesung10VererbungAbstract.ZeichnenÜbung.TestFigur" />
       <module name="InfoSemester1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Vorlesung10.ZeichnenÜbung.*" />
+          <option name="PATTERN" value="Vorlesung10VererbungAbstract.ZeichnenÜbung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Obstlager" />
         <item itemvalue="Application.TestFigur" />
         <item itemvalue="Application.MitarbeiterVerwaltung" />
         <item itemvalue="Application.LebewesenVerwaltung" />
         <item itemvalue="Application.AuftragsVerwaltung" />
-        <item itemvalue="Application.PersonVerwaltung" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +192,10 @@
     <MESSAGE value="Array Übung" />
     <MESSAGE value="Lebewesen Übung" />
     <option name="LAST_COMMIT_MESSAGE" value="Lebewesen Übung" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/InfoSemester1$Arrays.ic" NAME="Arrays Coverage Results" MODIFIED="1666942529069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
